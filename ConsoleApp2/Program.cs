@@ -8,7 +8,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Car car = new Car();
-            car.owner = "ww"; // 修改了属性名为大写的Owner
+            car.owner = "ww"; 
         }
     }
   
